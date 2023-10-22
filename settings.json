@@ -6,8 +6,8 @@
     },
 
     "server":{
-        "ip": "localhost",
-        "port": 25565,
+        "ip": "arish2580.aternos.me",
+        "port": 11525,
         "version": "1.16.4"
     },
 
